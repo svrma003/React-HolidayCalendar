@@ -1,0 +1,41 @@
+body{
+    position: relative;
+    text-align: center;
+}
+.errorCss{
+    font-size: 43px;
+    text-align: center;
+    position:absolute;
+    margin-top: 303px;
+    margin-right: 0px;
+    margin-left: -734px;
+    margin-bottom: 0px;
+    top: 50%;
+    width: 100%;
+}
+.loadingCss{
+    font-size: 43px;
+    text-align: center;
+    position:absolute;
+    margin-top: 303px;
+    margin-right: 0px;
+    margin-left: -793px;
+    margin-bottom: 0px;
+    top: 50%;
+    width: 100%;
+}
+.noCondition{
+    color:black;
+}
+.yesCondition{
+    font-size: 19px;
+}
+.nameCss{
+    font-size: 21px;
+}
+.typeCss{
+    padding: 5px;
+    background-color: rgb(105, 9, 196);
+    border-radius: 11px;
+    color: white;
+}
